@@ -1,0 +1,1745 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "DeviceIntelligenceIOS",
+    "printedName": "DeviceIntelligenceIOS",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "LocalAuthentication",
+        "printedName": "LocalAuthentication",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Keypaz",
+        "printedName": "Keypaz",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS6KeypazP10initializeyySS_SStF",
+            "mangledName": "$s21DeviceIntelligenceIOS6KeypazP10initializeyySS_SStF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : DeviceIntelligenceIOS.Keypaz>",
+            "sugared_genericSig": "<Self where Self : DeviceIntelligenceIOS.Keypaz>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setup",
+            "printedName": "setup()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS6KeypazP5setupAA0D8SettingsCyF",
+            "mangledName": "$s21DeviceIntelligenceIOS6KeypazP5setupAA0D8SettingsCyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : DeviceIntelligenceIOS.Keypaz>",
+            "sugared_genericSig": "<Self where Self : DeviceIntelligenceIOS.Keypaz>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setDefault",
+            "printedName": "setDefault(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS6KeypazP10setDefaultyyAA0D8SettingsCF",
+            "mangledName": "$s21DeviceIntelligenceIOS6KeypazP10setDefaultyyAA0D8SettingsCF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : DeviceIntelligenceIOS.Keypaz>",
+            "sugared_genericSig": "<Self where Self : DeviceIntelligenceIOS.Keypaz>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "generateNewSecretKey",
+            "printedName": "generateNewSecretKey()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS6KeypazP20generateNewSecretKeyyyKF",
+            "mangledName": "$s21DeviceIntelligenceIOS6KeypazP20generateNewSecretKeyyyKF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : DeviceIntelligenceIOS.Keypaz>",
+            "sugared_genericSig": "<Self where Self : DeviceIntelligenceIOS.Keypaz>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdditionalSettings",
+            "printedName": "setAdditionalSettings(settings:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS6KeypazP21setAdditionalSettings8settingsySS_tF",
+            "mangledName": "$s21DeviceIntelligenceIOS6KeypazP21setAdditionalSettings8settingsySS_tF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : DeviceIntelligenceIOS.Keypaz>",
+            "sugared_genericSig": "<Self where Self : DeviceIntelligenceIOS.Keypaz>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:21DeviceIntelligenceIOS6KeypazP",
+        "mangledName": "$s21DeviceIntelligenceIOS6KeypazP",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "DeviceKit",
+        "printedName": "DeviceKit",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AnalyzeResult",
+        "printedName": "AnalyzeResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "hasError",
+            "printedName": "hasError",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC8hasErrorSbvp",
+            "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC8hasErrorSbvp",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC8hasErrorSbvg",
+                "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC8hasErrorSbvg",
+                "moduleName": "DeviceIntelligenceIOS",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "error",
+            "printedName": "error",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazError",
+                "printedName": "DeviceIntelligenceIOS.KeypazError",
+                "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC5errorAA11KeypazErrorOvp",
+            "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC5errorAA11KeypazErrorOvp",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KeypazError",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError",
+                    "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC5errorAA11KeypazErrorOvg",
+                "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC5errorAA11KeypazErrorOvg",
+                "moduleName": "DeviceIntelligenceIOS",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "activityId",
+            "printedName": "activityId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvp",
+            "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvp",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvg",
+                "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvg",
+                "moduleName": "DeviceIntelligenceIOS",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC",
+        "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "KeypazSettings",
+        "printedName": "KeypazSettings",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "withLocation",
+            "printedName": "withLocation()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC12withLocationACyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC12withLocationACyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "withoutLocation",
+            "printedName": "withoutLocation()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC15withoutLocationACyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC15withoutLocationACyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isLocation",
+            "printedName": "isLocation()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC10isLocationSbyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC10isLocationSbyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "withBiometricPopup",
+            "printedName": "withBiometricPopup()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC18withBiometricPopupACyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC18withBiometricPopupACyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "withoutBiometricPopup",
+            "printedName": "withoutBiometricPopup()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC21withoutBiometricPopupACyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC21withoutBiometricPopupACyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isBiometricPopup",
+            "printedName": "isBiometricPopup()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC16isBiometricPopupSbyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC16isBiometricPopupSbyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "withBiometricLevelHigh",
+            "printedName": "withBiometricLevelHigh()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC22withBiometricLevelHighACyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC22withBiometricLevelHighACyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "withoutBiometricLevelHigh",
+            "printedName": "withoutBiometricLevelHigh()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC25withoutBiometricLevelHighACyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC25withoutBiometricLevelHighACyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isBiometricLevelHigh",
+            "printedName": "isBiometricLevelHigh()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC20isBiometricLevelHighSbyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC20isBiometricLevelHighSbyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setBiometricMessage",
+            "printedName": "setBiometricMessage(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC19setBiometricMessageyACSSF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC19setBiometricMessageyACSSF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiometricMessage",
+            "printedName": "getBiometricMessage()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC19getBiometricMessageSSyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC19getBiometricMessageSSyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "analyze",
+            "printedName": "analyze(callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.AnalyzeResult) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnalyzeResult",
+                    "printedName": "DeviceIntelligenceIOS.AnalyzeResult",
+                    "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC7analyze8callbackyyAA13AnalyzeResultCc_tF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC7analyze8callbackyyAA13AnalyzeResultCc_tF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC",
+        "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonCrypto",
+        "printedName": "CommonCrypto",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "KeypazError",
+        "printedName": "KeypazError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "biometricNoneEnrolled",
+            "printedName": "biometricNoneEnrolled",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KeypazError",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError",
+                    "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO21biometricNoneEnrolledyA2CmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO21biometricNoneEnrolledyA2CmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          },
+          {
+            "kind": "Var",
+            "name": "biometricAuthFailed",
+            "printedName": "biometricAuthFailed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KeypazError",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError",
+                    "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO19biometricAuthFailedyA2CmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO19biometricAuthFailedyA2CmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          },
+          {
+            "kind": "Var",
+            "name": "biometricNotAvailable",
+            "printedName": "biometricNotAvailable",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> (Swift.String) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> DeviceIntelligenceIOS.KeypazError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(message: Swift.String)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO21biometricNotAvailableyACSS_tcACmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO21biometricNotAvailableyACSS_tcACmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          },
+          {
+            "kind": "Var",
+            "name": "biometricNotInteractive",
+            "printedName": "biometricNotInteractive",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KeypazError",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError",
+                    "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO23biometricNotInteractiveyA2CmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO23biometricNotInteractiveyA2CmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          },
+          {
+            "kind": "Var",
+            "name": "encryptionError",
+            "printedName": "encryptionError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> (Swift.String) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> DeviceIntelligenceIOS.KeypazError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(message: Swift.String)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO010encryptionE0yACSS_tcACmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO010encryptionE0yACSS_tcACmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          },
+          {
+            "kind": "Var",
+            "name": "publicKeyNotExist",
+            "printedName": "publicKeyNotExist",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KeypazError",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError",
+                    "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO17publicKeyNotExistyA2CmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO17publicKeyNotExistyA2CmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          },
+          {
+            "kind": "Var",
+            "name": "uninitialized",
+            "printedName": "uninitialized",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KeypazError",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError",
+                    "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO13uninitializedyA2CmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO13uninitializedyA2CmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          },
+          {
+            "kind": "Var",
+            "name": "badConnection",
+            "printedName": "badConnection",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> (Swift.String) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> DeviceIntelligenceIOS.KeypazError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(message: Swift.String)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO13badConnectionyACSS_tcACmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO13badConnectionyACSS_tcACmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO",
+        "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "KeypazFactory",
+        "printedName": "KeypazFactory",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getInstance",
+            "printedName": "getInstance()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Keypaz",
+                "printedName": "any DeviceIntelligenceIOS.Keypaz",
+                "usr": "s:21DeviceIntelligenceIOS6KeypazP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS13KeypazFactoryC11getInstanceAA0D0_pyFZ",
+            "mangledName": "$s21DeviceIntelligenceIOS13KeypazFactoryC11getInstanceAA0D0_pyFZ",
+            "moduleName": "DeviceIntelligenceIOS",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:21DeviceIntelligenceIOS13KeypazFactoryC",
+        "mangledName": "$s21DeviceIntelligenceIOS13KeypazFactoryC",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
+      "kind": "StringLiteral",
+      "offset": 222,
+      "length": 34,
+      "value": "\"passphrasewhichneedstobe32bytes!\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 286,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 316,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/ICloudKeyManager.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 7,
+      "value": "\"kz-id\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
+      "kind": "FloatLiteral",
+      "offset": 146,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
+      "kind": "Array",
+      "offset": 258,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
+      "kind": "BooleanLiteral",
+      "offset": 371,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
+      "kind": "BooleanLiteral",
+      "offset": 452,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
+      "kind": "StringLiteral",
+      "offset": 198,
+      "length": 16,
+      "value": "\"keypaz-service\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
+      "kind": "StringLiteral",
+      "offset": 242,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
+      "kind": "StringLiteral",
+      "offset": 277,
+      "length": 18,
+      "value": "\"group.com.keypaz\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/JailbreakHarvester.swift",
+      "kind": "Array",
+      "offset": 93,
+      "length": 1261,
+      "value": "[\"\/var\/cache\/apt\", \"\/var\/lib\/apt\", \"\/var\/lib\/cydia\", \"\/var\/log\/syslog\", \"\/var\/tmp\/cydia.log\", \"\/private\/var\/stash\", \"\/private\/var\/lib\/apt\", \"\/private\/var\/tmp\/cydia.log\", \"\/private\/var\/lib\/cydia\", \"\/private\/var\/mobile\/Library\/SBSettings\/Themes\", \"\/Applications\/Cydia.app\", \"\/Applications\/RockApp.app\", \"\/Applications\/Icy.app\", \"\/Applications\/WinterBoard.app\", \"\/Applications\/SBSetttings.app\", \"\/Applications\/blackra1n.app\", \"\/Applications\/IntelliScreen.app\", \"\/Applications\/Snoop-itConfig.app\", \"\/Applications\/MxTube.app\", \"\/Applications\/FakeCarrier.app\", \"\/bin\/sh\", \"\/bin\/bash\", \"\/etc\/apt\", \"\/etc\/ssh\/sshd_config\", \"\/usr\/libexec\/sftp-server\", \"\/usr\/libexec\/ssh-keysign\", \"\/usr\/bin\/sshd\", \"\/usr\/sbin\/sshd\", \"\/System\/Library\/LaunchDaemons\/com.saurik.Cydia.Startup.plist\", \"\/System\/Library\/LaunchDaemons\/com.ikey.bbot.plist\", \"\/Library\/MobileSubstrate\/DynamicLibraries\/LiveClock.plist\", \"\/Library\/MobileSubstrate\/DynamicLibraries\/Veency.plist\", \"\/Library\/MobileSubstrate\/MobileSubstrate.dylib\"]"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/Analyzer.swift",
+      "kind": "StringLiteral",
+      "offset": 471,
+      "length": 58,
+      "value": "\"https:\/\/api.fazpass.com\/v2\/trusted-device\/keypaz-analyze\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/Analyzer.swift",
+      "kind": "StringLiteral",
+      "offset": 567,
+      "length": 59,
+      "value": "\"https:\/\/apiv2.fazpas.com\/v2\/trusted-device\/keypaz-analyze\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 427,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 465,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 508,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "StringLiteral",
+      "offset": 549,
+      "length": 20,
+      "value": "\"Biometric required\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 122,
+      "length": 17,
+      "value": "\"KeypazSecureKey\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 548,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 598,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 691,
+      "length": 46,
+      "value": "\"keypaz.\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 733,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 736,
+      "length": 22,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "BooleanLiteral",
+      "offset": 802,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1160,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1210,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 1258,
+      "length": 46,
+      "value": "\"keypaz.\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 1300,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 1303,
+      "length": 22,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1359,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 145,
+      "length": 27,
+      "value": "\"keypaz:account_index_list\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 217,
+      "length": 25,
+      "value": "\"keypaz:encrypted_string\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 274,
+      "length": 17,
+      "value": "\"keypaz:settings\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Objects\/BiometricInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 187,
+      "length": 14,
+      "value": "\"is_available\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Objects\/BiometricInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 12,
+      "value": "\"is_changed\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "StringLiteral",
+      "offset": 1036,
+      "length": 7,
+      "value": "\"1.0.0\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1198,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1333,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1390,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "StringLiteral",
+      "offset": 1442,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "StringLiteral",
+      "offset": 1493,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}
