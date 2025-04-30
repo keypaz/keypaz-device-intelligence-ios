@@ -12,8 +12,6 @@ Pod::Spec.new do |s|
   
   s.dependency 'DeviceKit'
   
-  s.source_files     = "XCFrameworks/DeviceIntelligenceIOS-#{s.version}.xcframework/**/*.swift"
-  
   s.vendored_frameworks = "XCFrameworks/DeviceIntelligenceIOS-#{s.version}.xcframework"
   
 end
