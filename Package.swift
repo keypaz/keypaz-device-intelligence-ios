@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let version = "0.0.2"
+let version = "0.0.3"
 
 let package = Package(
     name: "DeviceIntelligenceIOS",
@@ -9,7 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "DeviceIntelligenceIOS",
-            targets: ["Stubs"]),
+            targets: ["DeviceIntelligenceIOSTargets"]),
     ],
     dependencies: [
         .package(url: "https://github.com/devicekit/DeviceKit", from: "5.6.0"),
@@ -20,12 +20,12 @@ let package = Package(
             path: "./XCFrameworks/DeviceIntelligenceIOS-\(version).xcframework",
         ),
         .target(
-            name: "Stubs",
+            name: "DeviceIntelligenceIOSTargets",
             dependencies: [
                 "DeviceKit",
                 .target(name: "DeviceIntelligenceIOS"),
             ],
-            path: "Stubs",
+            path: "DeviceIntelligenceIOSTargets",
             swiftSettings: [
                 .define("UIKIT_ENABLED")
             ],
