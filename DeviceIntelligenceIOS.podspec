@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'DeviceIntelligenceIOS'
-  s.version             = '0.0.5'
+  s.version             = '0.0.6'
   s.summary             = 'Device Intelligence IOS.'
   s.description         = 'Device Intelligence IOS from Keypaz.'
   s.homepage            = 'https://github.com/keypaz/keypaz-device-intelligence-ios'
@@ -12,8 +12,6 @@ Pod::Spec.new do |s|
   s.swift_versions      = '5.3'
   
   s.dependency 'DeviceKit'
-  
-  s.source_files        = "DeviceIntelligenceIOSTargets/**/*.swift"
   
   s.vendored_frameworks = "XCFrameworks/#{s.version}/DeviceIntelligenceIOS.xcframework"
   
