@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let version = "0.0.3"
+let version = "0.0.4"
 
 let package = Package(
     name: "DeviceIntelligenceIOS",
@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DeviceIntelligenceIOS",
-            path: "./XCFrameworks/DeviceIntelligenceIOS-\(version).xcframework",
+            path: "./XCFrameworks/\(version)/DeviceIntelligenceIOS.xcframework",
         ),
         .target(
             name: "DeviceIntelligenceIOSTargets",
