@@ -9,6 +9,7 @@ Pod::Spec.new do |s|
   s.source              = { :git => 'https://github.com/keypaz/keypaz-device-intelligence-ios.git', :tag => "#{s.version}" }
   s.requires_arc        = true
   s.platform            = :ios, '14.0'
+  s.swift_versions      = '5.3'
   
   s.dependency 'DeviceKit'
   
