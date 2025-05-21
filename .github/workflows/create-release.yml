@@ -7,6 +7,9 @@ jobs:
   create_release_if_ci:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+    
       - name: Check commit author
         id: check_author
         run: |
