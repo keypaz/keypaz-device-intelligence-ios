@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let version = "0.0.6"
+let version = "0.0.7"
 
 let package = Package(
     name: "DeviceIntelligenceIOS",
@@ -13,6 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/devicekit/DeviceKit", from: "5.6.0"),
+        .package(url: "https://github.com/microsoft/plcrashreporter", from: "1.12.0"),
     ],
     targets: [
         .binaryTarget(
@@ -23,6 +24,7 @@ let package = Package(
             name: "DeviceIntelligenceIOSTargets",
             dependencies: [
                 "DeviceKit",
+                "CrashReporter",
                 .target(name: "DeviceIntelligenceIOS"),
             ],
             path: "DeviceIntelligenceIOSTargets",

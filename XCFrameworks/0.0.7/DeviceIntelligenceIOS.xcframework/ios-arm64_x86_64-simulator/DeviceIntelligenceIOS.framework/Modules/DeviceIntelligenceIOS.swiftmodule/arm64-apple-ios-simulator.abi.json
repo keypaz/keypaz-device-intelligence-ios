@@ -134,16 +134,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "DeviceIntelligenceIOS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -625,39 +615,25 @@
           {
             "kind": "Function",
             "name": "withLocation",
-            "printedName": "withLocation()",
+            "printedName": "withLocation(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "KeypazSettings",
                 "printedName": "DeviceIntelligenceIOS.KeypazSettings",
                 "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC12withLocationACyF",
-            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC12withLocationACyF",
-            "moduleName": "DeviceIntelligenceIOS",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "withoutLocation",
-            "printedName": "withoutLocation()",
-            "children": [
+              },
               {
                 "kind": "TypeNominal",
-                "name": "KeypazSettings",
-                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
-                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Func",
-            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC15withoutLocationACyF",
-            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC15withoutLocationACyF",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC12withLocationyACSbF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC12withLocationyACSbF",
             "moduleName": "DeviceIntelligenceIOS",
             "declAttributes": [
               "AccessControl"
@@ -688,39 +664,25 @@
           {
             "kind": "Function",
             "name": "withBiometricPopup",
-            "printedName": "withBiometricPopup()",
+            "printedName": "withBiometricPopup(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "KeypazSettings",
                 "printedName": "DeviceIntelligenceIOS.KeypazSettings",
                 "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC18withBiometricPopupACyF",
-            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC18withBiometricPopupACyF",
-            "moduleName": "DeviceIntelligenceIOS",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "withoutBiometricPopup",
-            "printedName": "withoutBiometricPopup()",
-            "children": [
+              },
               {
                 "kind": "TypeNominal",
-                "name": "KeypazSettings",
-                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
-                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Func",
-            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC21withoutBiometricPopupACyF",
-            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC21withoutBiometricPopupACyF",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC18withBiometricPopupyACSbF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC18withBiometricPopupyACSbF",
             "moduleName": "DeviceIntelligenceIOS",
             "declAttributes": [
               "AccessControl"
@@ -751,39 +713,25 @@
           {
             "kind": "Function",
             "name": "withBiometricLevelHigh",
-            "printedName": "withBiometricLevelHigh()",
+            "printedName": "withBiometricLevelHigh(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "KeypazSettings",
                 "printedName": "DeviceIntelligenceIOS.KeypazSettings",
                 "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC22withBiometricLevelHighACyF",
-            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC22withBiometricLevelHighACyF",
-            "moduleName": "DeviceIntelligenceIOS",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "withoutBiometricLevelHigh",
-            "printedName": "withoutBiometricLevelHigh()",
-            "children": [
+              },
               {
                 "kind": "TypeNominal",
-                "name": "KeypazSettings",
-                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
-                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Func",
-            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC25withoutBiometricLevelHighACyF",
-            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC25withoutBiometricLevelHighACyF",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC22withBiometricLevelHighyACSbF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC22withBiometricLevelHighyACSbF",
             "moduleName": "DeviceIntelligenceIOS",
             "declAttributes": [
               "AccessControl"
@@ -853,6 +801,55 @@
             "declKind": "Func",
             "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC19getBiometricMessageSSyF",
             "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC19getBiometricMessageSSyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "withOtpSpammingFunction",
+            "printedName": "withOtpSpammingFunction(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC23withOtpSpammingFunctionyACSbF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC23withOtpSpammingFunctionyACSbF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isOtpSpammingFunction",
+            "printedName": "isOtpSpammingFunction()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC21isOtpSpammingFunctionSbyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC21isOtpSpammingFunctionSbyF",
             "moduleName": "DeviceIntelligenceIOS",
             "declAttributes": [
               "AccessControl"
@@ -1442,304 +1439,350 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "DeviceIntelligenceIOS"
+      },
+      {
+        "kind": "Import",
+        "name": "CrashReporter",
+        "printedName": "CrashReporter",
+        "declKind": "Import",
+        "moduleName": "DeviceIntelligenceIOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
       "kind": "StringLiteral",
       "offset": 222,
       "length": 34,
       "value": "\"passphrasewhichneedstobe32bytes!\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
       "kind": "IntegerLiteral",
       "offset": 286,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Externals\/EncryptionService.swift",
       "kind": "IntegerLiteral",
       "offset": 316,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/ICloudKeyManager.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/ICloudKeyManager.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 7,
       "value": "\"kz-id\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
       "kind": "FloatLiteral",
       "offset": 146,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
       "kind": "Array",
       "offset": 258,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
       "kind": "BooleanLiteral",
       "offset": 371,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/LocationHarvester.swift",
       "kind": "BooleanLiteral",
       "offset": 452,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
       "kind": "StringLiteral",
       "offset": 198,
       "length": 16,
       "value": "\"keypaz-service\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
       "kind": "StringLiteral",
       "offset": 242,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/KeychainGroupManager.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 18,
       "value": "\"group.com.keypaz\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/JailbreakHarvester.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Harvesters\/JailbreakHarvester.swift",
       "kind": "Array",
       "offset": 93,
       "length": 1261,
       "value": "[\"\/var\/cache\/apt\", \"\/var\/lib\/apt\", \"\/var\/lib\/cydia\", \"\/var\/log\/syslog\", \"\/var\/tmp\/cydia.log\", \"\/private\/var\/stash\", \"\/private\/var\/lib\/apt\", \"\/private\/var\/tmp\/cydia.log\", \"\/private\/var\/lib\/cydia\", \"\/private\/var\/mobile\/Library\/SBSettings\/Themes\", \"\/Applications\/Cydia.app\", \"\/Applications\/RockApp.app\", \"\/Applications\/Icy.app\", \"\/Applications\/WinterBoard.app\", \"\/Applications\/SBSetttings.app\", \"\/Applications\/blackra1n.app\", \"\/Applications\/IntelliScreen.app\", \"\/Applications\/Snoop-itConfig.app\", \"\/Applications\/MxTube.app\", \"\/Applications\/FakeCarrier.app\", \"\/bin\/sh\", \"\/bin\/bash\", \"\/etc\/apt\", \"\/etc\/ssh\/sshd_config\", \"\/usr\/libexec\/sftp-server\", \"\/usr\/libexec\/ssh-keysign\", \"\/usr\/bin\/sshd\", \"\/usr\/sbin\/sshd\", \"\/System\/Library\/LaunchDaemons\/com.saurik.Cydia.Startup.plist\", \"\/System\/Library\/LaunchDaemons\/com.ikey.bbot.plist\", \"\/Library\/MobileSubstrate\/DynamicLibraries\/LiveClock.plist\", \"\/Library\/MobileSubstrate\/DynamicLibraries\/Veency.plist\", \"\/Library\/MobileSubstrate\/MobileSubstrate.dylib\"]"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/Analyzer.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/Analyzer.swift",
       "kind": "StringLiteral",
       "offset": 471,
       "length": 58,
       "value": "\"https:\/\/api.fazpass.com\/v2\/trusted-device\/keypaz-analyze\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/Analyzer.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/Analyzer.swift",
       "kind": "StringLiteral",
       "offset": 567,
       "length": 59,
       "value": "\"https:\/\/apiv2.fazpas.com\/v2\/trusted-device\/keypaz-analyze\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
       "offset": 427,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
       "offset": 465,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
       "offset": 508,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "StringLiteral",
       "offset": 549,
       "length": 20,
       "value": "\"Biometric required\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 608,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 664,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 871,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1098,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1574,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "StringLiteral",
       "offset": 122,
       "length": 17,
       "value": "\"KeypazSecureKey\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "IntegerLiteral",
       "offset": 548,
       "length": 4,
       "value": "2048"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "IntegerLiteral",
       "offset": 598,
       "length": 4,
       "value": "2048"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "StringLiteral",
       "offset": 691,
       "length": 46,
       "value": "\"keypaz.\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "StringLiteral",
       "offset": 733,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "StringLiteral",
       "offset": 736,
       "length": 22,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "BooleanLiteral",
       "offset": 802,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "IntegerLiteral",
       "offset": 1160,
       "length": 4,
       "value": "2048"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "IntegerLiteral",
       "offset": 1210,
       "length": 4,
       "value": "2048"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "StringLiteral",
       "offset": 1258,
       "length": 46,
       "value": "\"keypaz.\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "StringLiteral",
       "offset": 1300,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "StringLiteral",
       "offset": 1303,
       "length": 22,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/SecureUtil.swift",
       "kind": "BooleanLiteral",
       "offset": 1359,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
       "kind": "StringLiteral",
       "offset": 145,
       "length": 27,
       "value": "\"keypaz:account_index_list\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 25,
       "value": "\"keypaz:encrypted_string\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Utilities\/UserDefaultsUtil.swift",
       "kind": "StringLiteral",
       "offset": 274,
       "length": 17,
       "value": "\"keypaz:settings\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Objects\/BiometricInfo.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Objects\/BiometricInfo.swift",
       "kind": "StringLiteral",
       "offset": 187,
       "length": 14,
       "value": "\"is_available\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/Objects\/BiometricInfo.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Objects\/BiometricInfo.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 12,
       "value": "\"is_changed\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1652,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1787,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1844,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
       "kind": "StringLiteral",
-      "offset": 1036,
-      "length": 7,
-      "value": "\"1.0.0\""
-    },
-    {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1198,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1333,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1390,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
-      "kind": "StringLiteral",
-      "offset": 1442,
+      "offset": 1896,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anvarisy\/Citcall\/Sdk\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
       "kind": "StringLiteral",
-      "offset": 1493,
+      "offset": 1947,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/Services\/ErrorReporterService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 240,
+      "length": 4,
+      "value": "2048"
     }
   ]
 }

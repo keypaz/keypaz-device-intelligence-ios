@@ -32,17 +32,16 @@ public protocol Keypaz {
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class KeypazSettings {
-  public func withLocation() -> DeviceIntelligenceIOS.KeypazSettings
-  public func withoutLocation() -> DeviceIntelligenceIOS.KeypazSettings
+  public func withLocation(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
   public func isLocation() -> Swift.Bool
-  public func withBiometricPopup() -> DeviceIntelligenceIOS.KeypazSettings
-  public func withoutBiometricPopup() -> DeviceIntelligenceIOS.KeypazSettings
+  public func withBiometricPopup(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
   public func isBiometricPopup() -> Swift.Bool
-  public func withBiometricLevelHigh() -> DeviceIntelligenceIOS.KeypazSettings
-  public func withoutBiometricLevelHigh() -> DeviceIntelligenceIOS.KeypazSettings
+  public func withBiometricLevelHigh(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
   public func isBiometricLevelHigh() -> Swift.Bool
   public func setBiometricMessage(_ message: Swift.String) -> DeviceIntelligenceIOS.KeypazSettings
   public func getBiometricMessage() -> Swift.String
+  public func withOtpSpammingFunction(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isOtpSpammingFunction() -> Swift.Bool
   public func analyze(callback: @escaping (DeviceIntelligenceIOS.AnalyzeResult) -> Swift.Void)
   @objc deinit
 }
