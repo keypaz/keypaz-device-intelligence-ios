@@ -453,6 +453,102 @@
         "children": [
           {
             "kind": "Var",
+            "name": "activityId",
+            "printedName": "activityId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvp",
+            "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvp",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvg",
+                "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvg",
+                "moduleName": "DeviceIntelligenceIOS",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isBlocked",
+            "printedName": "isBlocked",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC9isBlockedSbvp",
+            "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC9isBlockedSbvp",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC9isBlockedSbvg",
+                "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC9isBlockedSbvg",
+                "moduleName": "DeviceIntelligenceIOS",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "hasError",
             "printedName": "hasError",
             "children": [
@@ -526,46 +622,6 @@
                 "declKind": "Accessor",
                 "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC5errorAA11KeypazErrorOvg",
                 "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC5errorAA11KeypazErrorOvg",
-                "moduleName": "DeviceIntelligenceIOS",
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "activityId",
-            "printedName": "activityId",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvp",
-            "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvp",
-            "moduleName": "DeviceIntelligenceIOS",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvg",
-                "mangledName": "$s21DeviceIntelligenceIOS13AnalyzeResultC10activityIdSSvg",
                 "moduleName": "DeviceIntelligenceIOS",
                 "accessorKind": "get"
               }
@@ -1304,6 +1360,63 @@
             "declKind": "EnumElement",
             "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO13badConnectionyACSS_tcACmF",
             "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO13badConnectionyACSS_tcACmF",
+            "moduleName": "DeviceIntelligenceIOS"
+          },
+          {
+            "kind": "Var",
+            "name": "unknownError",
+            "printedName": "unknownError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceIntelligenceIOS.KeypazError.Type) -> (Swift.String) -> DeviceIntelligenceIOS.KeypazError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> DeviceIntelligenceIOS.KeypazError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(message: Swift.String)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceIntelligenceIOS.KeypazError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KeypazError",
+                        "printedName": "DeviceIntelligenceIOS.KeypazError",
+                        "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21DeviceIntelligenceIOS11KeypazErrorO07unknownE0yACSS_tcACmF",
+            "mangledName": "$s21DeviceIntelligenceIOS11KeypazErrorO07unknownE0yACSS_tcACmF",
             "moduleName": "DeviceIntelligenceIOS"
           }
         ],

@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		4g59UkrPev5hoHQkXO3Uj4vB5JM=
+		8MLYTi/pnakh73rtaE/iazoFZ1c=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		/WQI38PJS7aY9xbytDcOjFtz5Tc=
+		sAAsJzTZ7ixJXYhNqb8/Wh9FFkQ=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,15 +22,15 @@
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		/WQI38PJS7aY9xbytDcOjFtz5Tc=
+		sAAsJzTZ7ixJXYhNqb8/Wh9FFkQ=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ePlNNlb1XGTMCzD/jlN11lDzmrI=
+		7E8OJVRZWDIhVlkEBIMthd7swb8=
 		</data>
 		<key>release.properties</key>
 		<data>
-		IAw1Q6atdaFJ1C9qstqExLpjd5Q=
+		WyDnCDeBB6t2rxMzGEGH5NzoB80=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -39,14 +39,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			98joL3MYh+xJWzzTbAmwpHyQIZB3SwXWzWzeLQNtu98=
+			5f6ialTc2ZCtjtGk7tJEN2wbC/oEIwKQHudnIHFsZVk=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k481iCrgrGl+4Di43iXaAOnLHodf2fgyAqFhjF+xL34=
+			v3FafT0NLt3gZgF4nvgOKUYLlsUYSz0fgvYroX87qO4=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -60,21 +60,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k481iCrgrGl+4Di43iXaAOnLHodf2fgyAqFhjF+xL34=
+			v3FafT0NLt3gZgF4nvgOKUYLlsUYSz0fgvYroX87qO4=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RG6vH5sJH++U/kzCig+2vQH8rV6pwtoDXKm+9l8zNiE=
+			YniSBUb8TxKsQWJXVcEG53Jp6t8qEWaJxcmFR6sAB1Q=
 			</data>
 		</dict>
 		<key>release.properties</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wY/f1z4YuZutks0Us1bST6C44hZMu2QbDfqYpL3OVx4=
+			3+F74WTlxSU3VvSiTVomMImFUrgmeuetbqSVZQ3jZDk=
 			</data>
 		</dict>
 	</dict>

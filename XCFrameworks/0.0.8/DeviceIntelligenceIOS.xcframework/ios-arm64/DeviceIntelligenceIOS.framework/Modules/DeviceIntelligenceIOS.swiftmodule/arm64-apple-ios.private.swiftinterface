@@ -20,13 +20,12 @@ public protocol Keypaz {
   func setAdditionalSettings(settings: Swift.String)
 }
 @_hasMissingDesignatedInitializers public class AnalyzeResult {
+  final public let activityId: Swift.String
+  final public let isBlocked: Swift.Bool
   public var hasError: Swift.Bool {
     get
   }
   public var error: DeviceIntelligenceIOS.KeypazError {
-    get
-  }
-  public var activityId: Swift.String {
     get
   }
   @objc deinit
@@ -54,6 +53,7 @@ public enum KeypazError : Swift.Error {
   case publicKeyNotExist
   case uninitialized
   case badConnection(message: Swift.String)
+  case unknownError(message: Swift.String)
 }
 @_hasMissingDesignatedInitializers public class KeypazFactory {
   public static func getInstance() -> any DeviceIntelligenceIOS.Keypaz
