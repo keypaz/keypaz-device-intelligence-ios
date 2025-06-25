@@ -38,9 +38,12 @@ public protocol Keypaz {
   public func withBiometricLevelHigh(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
   public func isBiometricLevelHigh() -> Swift.Bool
   public func setBiometricMessage(_ message: Swift.String) -> DeviceIntelligenceIOS.KeypazSettings
-  public func getBiometricMessage() -> Swift.String
   public func withOtpSpammingFunction(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
   public func isOtpSpammingFunction() -> Swift.Bool
+  public func withAccountTakeoverFunction(_ userIdentifier: Swift.String, _ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isAccountTakeoverFunction() -> Swift.Bool
+  public func withAppTamperingFunction(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isAppTamperingFunction() -> Swift.Bool
   public func analyze(callback: @escaping (DeviceIntelligenceIOS.AnalyzeResult) -> Swift.Void)
   @objc deinit
 }
