@@ -24,7 +24,7 @@ let package = Package(
             name: "DeviceIntelligenceIOSTargets",
             dependencies: [
                 "DeviceKit",
-                "PLCrashReporter",
+                "CrashReporter",
                 .target(name: "DeviceIntelligenceIOS"),
             ],
             path: "DeviceIntelligenceIOSTargets",
