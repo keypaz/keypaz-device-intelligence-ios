@@ -958,56 +958,6 @@
           },
           {
             "kind": "Function",
-            "name": "withAppTamperingFunction",
-            "printedName": "withAppTamperingFunction(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "KeypazSettings",
-                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
-                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "hasDefaultArg": true,
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC24withAppTamperingFunctionyACSbF",
-            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC24withAppTamperingFunctionyACSbF",
-            "moduleName": "DeviceIntelligenceIOS",
-            "declAttributes": [
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "isAppTamperingFunction",
-            "printedName": "isAppTamperingFunction()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC22isAppTamperingFunctionSbyF",
-            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC22isAppTamperingFunctionSbyF",
-            "moduleName": "DeviceIntelligenceIOS",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "analyze",
             "printedName": "analyze(callback:)",
             "children": [
@@ -1816,62 +1766,69 @@
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
       "offset": 691,
-      "length": 5,
-      "value": "false"
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "StringLiteral",
-      "offset": 737,
+      "offset": 736,
       "length": 20,
       "value": "\"Biometric required\""
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "StringLiteral",
-      "offset": 791,
+      "offset": 790,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 844,
+      "offset": 843,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 1051,
+      "offset": 1050,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 1278,
+      "offset": 1277,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 1661,
+      "offset": 1660,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 1936,
+      "offset": 1935,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 2510,
+      "offset": 2246,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2499,
       "length": 4,
       "value": "true"
     },

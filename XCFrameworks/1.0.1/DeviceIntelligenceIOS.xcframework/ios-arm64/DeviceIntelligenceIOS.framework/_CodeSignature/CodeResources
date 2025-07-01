@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZuBW+/J3t3fPJlcA3opqFVyg+OA=
+		XlxrMAGF34zaqcnhQLRxthr4kRo=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		qBqAllQW2KWh0ndWVyrhoUPG6Uo=
+		o1ZgFKXYodLd8zdQkuTOcR3jOS4=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,15 +22,15 @@
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		qBqAllQW2KWh0ndWVyrhoUPG6Uo=
+		o1ZgFKXYodLd8zdQkuTOcR3jOS4=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		d4sLOoXjGNcK2xpIFD6sNzmD0pc=
+		HmeKa8EnNqpIv+b5y4pNtYb6bhs=
 		</data>
 		<key>release.properties</key>
 		<data>
-		AH9FHWxifDtgrue3Y0Ull/d1y7s=
+		kkYFUrKJo4CpYLh6eoTfTnOzxEw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -39,14 +39,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XWvG5NtvEY1zAZUiMDqTuu9solfiq3yBl3udAy6LZas=
+			CW7eKEaTMJpkiKtRPq9d6dIe99/e16/G3IPbWsZW7TY=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Ar1YBwrpVh5QrUbeflelEEGD8N4d4BFvtmbkMnY2AY=
+			WwWcvmTG/N4Z6/j8AKVMmZjYXKDfvlg679v1XYNce7s=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -60,21 +60,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Ar1YBwrpVh5QrUbeflelEEGD8N4d4BFvtmbkMnY2AY=
+			WwWcvmTG/N4Z6/j8AKVMmZjYXKDfvlg679v1XYNce7s=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3kXGWcd/l/GcDdBQ8A44E4vGbovjEYKVVjFzETmk+e0=
+			XY/eOo6uH+lyic3hTlPmeYqNy/zdCk9yE6PCsUQ0kZQ=
 			</data>
 		</dict>
 		<key>release.properties</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6DV7Lnxn4Hd8qYHb63VZc+N25XdcON7jcKP+ch6qRE=
+			AqnNBBKxybssatCYnhTYPBZmoich2NKFxyuOdJSEnP8=
 			</data>
 		</dict>
 	</dict>
