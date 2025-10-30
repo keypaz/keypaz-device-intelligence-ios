@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'DeviceIntelligenceIOS'
-  s.version             = '1.0.1'
+  s.version             = '1.0.2'
   s.summary             = 'Device Intelligence IOS.'
   s.description         = 'Device Intelligence IOS from Keypaz.'
   s.homepage            = 'https://github.com/keypaz/keypaz-device-intelligence-ios'

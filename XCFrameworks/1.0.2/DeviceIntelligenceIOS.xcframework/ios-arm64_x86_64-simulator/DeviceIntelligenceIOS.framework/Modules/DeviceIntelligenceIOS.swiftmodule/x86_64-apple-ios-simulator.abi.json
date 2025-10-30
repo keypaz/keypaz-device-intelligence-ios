@@ -958,6 +958,69 @@
           },
           {
             "kind": "Function",
+            "name": "withPromoAbuseFunction",
+            "printedName": "withPromoAbuseFunction(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KeypazSettings",
+                "printedName": "DeviceIntelligenceIOS.KeypazSettings",
+                "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC22withPromoAbuseFunctionyACSaySSG_SbtF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC22withPromoAbuseFunctionyACSaySSG_SbtF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isPromoAbuseFunction",
+            "printedName": "isPromoAbuseFunction()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21DeviceIntelligenceIOS14KeypazSettingsC20isPromoAbuseFunctionSbyF",
+            "mangledName": "$s21DeviceIntelligenceIOS14KeypazSettingsC20isPromoAbuseFunctionSbyF",
+            "moduleName": "DeviceIntelligenceIOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "analyze",
             "printedName": "analyze(callback:)",
             "children": [
@@ -1771,64 +1834,85 @@
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 733,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "StringLiteral",
-      "offset": 736,
+      "offset": 779,
       "length": 20,
       "value": "\"Biometric required\""
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "StringLiteral",
-      "offset": 790,
+      "offset": 833,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "Array",
+      "offset": 871,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 843,
+      "offset": 924,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 1050,
+      "offset": 1131,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 1277,
+      "offset": 1358,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 1660,
+      "offset": 1741,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 1935,
+      "offset": 2016,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 2246,
+      "offset": 2339,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 2499,
+      "offset": 2679,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/KeypazSettings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2932,
       "length": 4,
       "value": "true"
     },
@@ -1961,35 +2045,35 @@
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
       "kind": "BooleanLiteral",
-      "offset": 1652,
+      "offset": 1744,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
       "kind": "BooleanLiteral",
-      "offset": 1787,
+      "offset": 1879,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
       "kind": "BooleanLiteral",
-      "offset": 1844,
+      "offset": 1936,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
       "kind": "StringLiteral",
-      "offset": 1896,
+      "offset": 1988,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/device-intelligence-ios\/device-intelligence-ios\/DeviceIntelligenceIOS\/DeviceIntelligenceIOS.swift",
       "kind": "StringLiteral",
-      "offset": 1947,
+      "offset": 2039,
       "length": 2,
       "value": "\"\""
     },

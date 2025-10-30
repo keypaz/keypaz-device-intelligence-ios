@@ -6,15 +6,15 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		7OjMuAd5rNlbJh8cGMMCxtfJR+g=
+		NKO79/6dLjzCRSRiSlLqJSeD2yE=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		XlxrMAGF34zaqcnhQLRxthr4kRo=
+		bc90rTrCg2jg17fbd9jnWYNPY/E=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		zskQQOdCOXVjcrQM8eQ1IpTJKr8=
+		OGx9nGy5qsPwSersb+eC4ga+Pzc=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		zskQQOdCOXVjcrQM8eQ1IpTJKr8=
+		OGx9nGy5qsPwSersb+eC4ga+Pzc=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vlN469aH/cS7adONeIOIVHh5nC0=
+		Zv+v6WTj58VinZQwhh+2YmsdKls=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		XlxrMAGF34zaqcnhQLRxthr4kRo=
+		bc90rTrCg2jg17fbd9jnWYNPY/E=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		yKAWkW+QS8wBfr6pxDKUzyhMQeY=
+		aYO3mQvySN7Uth9SuJtn0oDlnS0=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yKAWkW+QS8wBfr6pxDKUzyhMQeY=
+		aYO3mQvySN7Uth9SuJtn0oDlnS0=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HAPQvPrb6d42FUdQf+yrGrCH89U=
+		9wu+fzg5yZeD08gz65piIIc7npc=
 		</data>
 		<key>release.properties</key>
 		<data>
-		kkYFUrKJo4CpYLh6eoTfTnOzxEw=
+		Kpiv98owOehQVo2w/avR85y35Ns=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -59,14 +59,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CW7eKEaTMJpkiKtRPq9d6dIe99/e16/G3IPbWsZW7TY=
+			LvkkbpiJkc2OP5WzXY7RLNrMq3Ly7f1VdCxMy8Kl9Rs=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rfvhqOQ4I42nci4mYBii/4pG4IWciGQe7NsFi3DaXJc=
+			G/bSSkoSZDia6nkM0qcjTXaQrmncsgZ3it0dC3bEnOs=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -80,28 +80,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rfvhqOQ4I42nci4mYBii/4pG4IWciGQe7NsFi3DaXJc=
+			G/bSSkoSZDia6nkM0qcjTXaQrmncsgZ3it0dC3bEnOs=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LzcRWbaZYDK2GbsilRocF+jYvBQQwcgb0Q70V7FVyZU=
+			+1+FX2FdOXITtgJbnBItNk/QchT1IrsmKVxGGCPPfrg=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CW7eKEaTMJpkiKtRPq9d6dIe99/e16/G3IPbWsZW7TY=
+			LvkkbpiJkc2OP5WzXY7RLNrMq3Ly7f1VdCxMy8Kl9Rs=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1pgB7ALv5AnC5UEjBW7HpiZtfASrpAtuGRds2EH+KY=
+			uvffUypHKZ1eggcc/aYNsrTizWmJiNvUi59368eB3ko=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -115,21 +115,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1pgB7ALv5AnC5UEjBW7HpiZtfASrpAtuGRds2EH+KY=
+			uvffUypHKZ1eggcc/aYNsrTizWmJiNvUi59368eB3ko=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ndoX9Z9zmRZ4oyaWlTnpNfUSdNa7509mTXSPU/706X4=
+			c+vq2aWFEWY3QE8KGLNp0LtVa91xmh27SlX0A+eMLL8=
 			</data>
 		</dict>
 		<key>release.properties</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AqnNBBKxybssatCYnhTYPBZmoich2NKFxyuOdJSEnP8=
+			2NZh6pmkxMzuXVlpSny+UH/jBvHenJUGVzLWicBMZd8=
 			</data>
 		</dict>
 	</dict>

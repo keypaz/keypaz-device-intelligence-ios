@@ -6,15 +6,15 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		yStET9KaDZjSzX/yMcuuR+78kXY=
+		Yhv7g0c56ApAjMdUEmR7I0WXnao=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		XlxrMAGF34zaqcnhQLRxthr4kRo=
+		bc90rTrCg2jg17fbd9jnWYNPY/E=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		o1ZgFKXYodLd8zdQkuTOcR3jOS4=
+		pFG1IrqSFBC3joled1HlQr3f4w8=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,15 +22,15 @@
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		o1ZgFKXYodLd8zdQkuTOcR3jOS4=
+		pFG1IrqSFBC3joled1HlQr3f4w8=
 		</data>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		HmeKa8EnNqpIv+b5y4pNtYb6bhs=
+		Za9L2P/9PtUqfyhnEyB2lC5pKyU=
 		</data>
 		<key>release.properties</key>
 		<data>
-		kkYFUrKJo4CpYLh6eoTfTnOzxEw=
+		Kpiv98owOehQVo2w/avR85y35Ns=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -39,14 +39,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CW7eKEaTMJpkiKtRPq9d6dIe99/e16/G3IPbWsZW7TY=
+			LvkkbpiJkc2OP5WzXY7RLNrMq3Ly7f1VdCxMy8Kl9Rs=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WwWcvmTG/N4Z6/j8AKVMmZjYXKDfvlg679v1XYNce7s=
+			HADataZ9H/s9VsKjQV0TNn+teA0iUriSUslfDAPpaRk=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -60,21 +60,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WwWcvmTG/N4Z6/j8AKVMmZjYXKDfvlg679v1XYNce7s=
+			HADataZ9H/s9VsKjQV0TNn+teA0iUriSUslfDAPpaRk=
 			</data>
 		</dict>
 		<key>Modules/DeviceIntelligenceIOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XY/eOo6uH+lyic3hTlPmeYqNy/zdCk9yE6PCsUQ0kZQ=
+			4jpax5tU6BzYxoD0FVFCDo8wrpoEGpjXDcezulOvnow=
 			</data>
 		</dict>
 		<key>release.properties</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AqnNBBKxybssatCYnhTYPBZmoich2NKFxyuOdJSEnP8=
+			2NZh6pmkxMzuXVlpSny+UH/jBvHenJUGVzLWicBMZd8=
 			</data>
 		</dict>
 	</dict>

@@ -1,7 +1,7 @@
 // swift-tools-version:6.0
 import PackageDescription
 
-let version = "1.0.1"
+let version = "1.0.2"
 
 let package = Package(
     name: "DeviceIntelligenceIOS",
