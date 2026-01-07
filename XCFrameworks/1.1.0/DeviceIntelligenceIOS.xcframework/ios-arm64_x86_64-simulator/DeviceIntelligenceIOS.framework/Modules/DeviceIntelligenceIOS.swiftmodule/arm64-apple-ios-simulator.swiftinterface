@@ -1,0 +1,64 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
+// swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name DeviceIntelligenceIOS
+// swift-module-flags-ignorable:  -interface-compiler-version 6.1
+import CommonCrypto
+import CoreLocation
+import CryptoKit
+import Foundation
+import LocalAuthentication
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public protocol Keypaz {
+  func initialize(_ merchantKey: Swift.String, _ merchantAppId: Swift.String, _ groupId: Swift.String)
+  func setup() -> DeviceIntelligenceIOS.KeypazSettings
+  func setDefault(_ settings: DeviceIntelligenceIOS.KeypazSettings)
+  func generateNewSecretKey() throws
+  func setAdditionalSettings(settings: Swift.String)
+}
+@_hasMissingDesignatedInitializers public class AnalyzeResult {
+  final public let activityId: Swift.String
+  final public let isBlocked: Swift.Bool
+  public var hasError: Swift.Bool {
+    get
+  }
+  public var error: DeviceIntelligenceIOS.KeypazError {
+    get
+  }
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class KeypazSettings {
+  public func withLocation(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isLocation() -> Swift.Bool
+  public func withBiometricPopup(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isBiometricPopup() -> Swift.Bool
+  public func withBiometricLevelHigh(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isBiometricLevelHigh() -> Swift.Bool
+  public func setBiometricMessage(_ message: Swift.String) -> DeviceIntelligenceIOS.KeypazSettings
+  public func withOtpSpammingFunction(_ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isOtpSpammingFunction() -> Swift.Bool
+  public func withAccountTakeoverFunction(_ userIdentifier: Swift.String, _ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isAccountTakeoverFunction() -> Swift.Bool
+  public func withPromoAbuseFunction(_ promoIds: [Swift.String], _ value: Swift.Bool = true) -> DeviceIntelligenceIOS.KeypazSettings
+  public func isPromoAbuseFunction() -> Swift.Bool
+  public func analyze(callback: @escaping (DeviceIntelligenceIOS.AnalyzeResult) -> Swift.Void)
+  @objc deinit
+}
+public enum KeypazError : Swift.Error {
+  case biometricNoneEnrolled
+  case biometricAuthFailed
+  case biometricNotAvailable(message: Swift.String)
+  case biometricNotInteractive
+  case encryptionError(message: Swift.String)
+  case publicKeyNotExist
+  case uninitialized
+  case badConnection(message: Swift.String)
+  case unknownError(message: Swift.String)
+}
+@_hasMissingDesignatedInitializers public class KeypazFactory {
+  public static func getInstance() -> any DeviceIntelligenceIOS.Keypaz
+  @objc deinit
+}
